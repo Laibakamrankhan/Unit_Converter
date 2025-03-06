@@ -6,7 +6,7 @@ def convert_unit(val , from_unit , to_unit):
         "meters_kilometers": 0.001,
         "kilometers_meters":1000,
         "grams_kilograms":0.001,
-        "kilograams_grams":1000
+        "kilograms_grams":1000
     }
     key = f"{from_unit}_{to_unit}"
 
